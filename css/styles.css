@@ -120,6 +120,7 @@ body {
     letter-spacing: 0.02em;
     text-align: center;
     text-transform: capitalize;
+    color: #2e2f42;
 }
 
 .employee_list_item {
@@ -146,7 +147,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2E2F42
+    color: #2E2F42;
 }
 
 .portfolio_subtitle {
