@@ -5,18 +5,19 @@ body {
     line-height: 1.5em;
     letter-spacing: 0.02em;
     text-align: left;
-    color: #2E2F42;
+    color: #434455
+    background-color: #FFFFFF;
 }
 
 .header_logo_link {
     text-transform: uppercase;
-    font-family: Raleway;
+    font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.167em;
+    line-height: 1.17em;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #2E2F42;
+    color: #4d5ae5;
     text-decoration: none;
 }
 
@@ -24,10 +25,10 @@ body {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.167em;
+    line-height: 1.17em;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #4D5AE5;
+    color: #2e2f42;
 }
 
 .header_menu_link {
@@ -40,7 +41,9 @@ body {
     color: #2E2F42;
     text-decoration: none;
 }
-
+.addres{
+    font-style: normal;
+}
 .header_menu_link:active,
 .header_menu_link:hover,
 .header_menu_link:focus {
@@ -74,7 +77,7 @@ body {
 .page_title_name {
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.071em;
+    line-height: 1.07em;
     letter-spacing: 0.02em;
     text-align: center;
     color: #FFFFFF;
@@ -120,14 +123,25 @@ body {
 
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.111em;
+    line-height: 1.11em;
+    letter-spacing: 0.02em;
     text-align: center;
+    text-transform: capitalize;
 }
 
-.employee_list {
+.employee_list_item {
     background-color: #FFFFFF;
 }
-
+.employee{
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 1.2em;
+    letter-spacing: 0.02em;
+    text-align: center;
+}
+.jobtitle{
+    color: #434445;
+}
 .portfolio {
     background: #FFFFFF;
 }
@@ -135,16 +149,21 @@ body {
 .portfolio_title {
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.111em;
+    line-height: 1.11em;
     text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: capitalize
 }
 
 .portfolio_subtitle {
     font-size: 20px;
     font-weight: 500;
     line-height: 1.2em;
+    letter-spacing: 0.02em;
 }
-
+.portfolio_text{
+    color: #434455   
+}
 .footer {
     background-color: #2E2F42;
 }
@@ -154,21 +173,21 @@ body {
     font-family: Raleway;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.167em;
+    line-height: 1.177em;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #F4F4FD;
+    color: #4d5ae5;
     text-decoration: none;
 }
 
-.footer_logo_link span {
-    font-family: Raleway;
+.footer_logo_link_span {
+    font-family: Raleway; sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.167em;
+    line-height: 1.17em;
     letter-spacing: 0.03em;
     text-align: left;
-    color: #4D5AE5;
+    color: #f4f4fd;
 }
 
 .footer_text {
