@@ -132,9 +132,10 @@ body {
     line-height: 1.2em;
     letter-spacing: 0.02em;
     text-align: center;
+    color: #2e2f42;
 }
 .jobtitle{
-    color: #434445;
+   color: #434455;
 }
 .portfolio {
     background: #FFFFFF;
