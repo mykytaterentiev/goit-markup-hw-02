@@ -11,7 +11,7 @@ body {
 
 .header_logo_link {
     text-transform: uppercase;
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17em;
@@ -146,7 +146,7 @@ body {
     text-align: center;
     letter-spacing: 0.02em;
     text-transform: capitalize;
-    color: #2e2f42;
+    color: #2E2F42
 }
 
 .portfolio_subtitle {
@@ -165,10 +165,10 @@ body {
 
 .footer_logo_link {
     text-transform: uppercase;
-    font-family: Raleway;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1.177em;
+    line-height: 1.17em;
     letter-spacing: 0.03em;
     text-align: left;
     color: #4d5ae5;
@@ -176,7 +176,7 @@ body {
 }
 
 .footer_logo_link_span {
-    font-family: Raleway, sans-serif;
+    font-family: "Raleway", sans-serif;
     font-size: 18px;
     font-weight: 700;
     line-height: 1.17em;
